@@ -55,7 +55,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://ofq310-digital-business-card.netlify.app/)
+- [Live Demo Link](https://ofarouq310.github.io/react_notes-app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
